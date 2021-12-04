@@ -1,0 +1,82 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+}
+
+div {
+  background-color: #282c34;
+}
+
+.App-header {
+  background-color: #282c34;
+  /* min-height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+p{
+  /* margin:40; */
+  /* padding:0% 20%; */
+  width:80%;
+  /* background-color: white; */
+  text-align: center;
+  align-content: center;
+  margin-left: auto;
+  margin-right:auto;
+}
+
+p1{
+  text-align:center
+}
+
+.info{
+  background-color: azure;
+}
+
+*{
+  background-color: #282c34;
+}
+
+.tutorialimage{
+  height: 200;
+  width: 200;
+}
+
+.Hero{
+  text-align:center;
+  top:50%
+}
+
+label{
+  text-align:none;
+  display:block;
+  margin-top: 1em;
+}
+
+input{
+  padding: .5em;
+  border: solid 1px white;
+  color: #fff
+}
+
+input[type="submit"]{
+  margin-top: 2em;
+  padding: .5em 1em;
+  border-radius: 10px;
+  border:none;
+  height:35px;
+  width:100px;
+  background: #3cbc8d;
+  color: #fff;
+  margin-bottom: 5em
+}
+
+/* input[type="message"]{
+  padding: .5em
+  min-height:4em;
+  min-width: 15em;
+} */

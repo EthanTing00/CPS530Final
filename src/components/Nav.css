@@ -1,0 +1,25 @@
+
+
+.navbar-default {
+    box-sizing: border-box;
+    padding: 40px;
+    position:fixed;
+    top:0;
+    /* background-color: #282c34; */
+    width:100%
+}
+
+.button {
+    font-size: 18px;
+    padding: 10px 18px;
+    background-color: azure;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin:10px;
+    text-decoration: none;
+    
+}
+
+
+
